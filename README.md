@@ -1,1 +1,5 @@
-# WYUStudentSocreCalculator
+# WYUGAP
+
+五邑大学绩点计算器
+
+利用Python爬虫技术，实现了对绩点的抓取并经行计算，练手了哈～
